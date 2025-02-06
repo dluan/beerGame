@@ -2,7 +2,7 @@
 
 Beer Game é uma simulação interativa da cadeia de suprimentos da indústria cervejeira. Este jogo foi desenvolvido para demonstrar os desafios da gestão de estoque e da cadeia de suprimentos em um ambiente dinâmico.
 
-Jogue agora: [Beer Game](https://v0-beer-game-txm2nr.vercel.app/)
+Jogue agora: [Beer Game](https://v0-beer-game.vercel.app/)
 
 ## Sobre o Jogo
 
